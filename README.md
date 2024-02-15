@@ -7,18 +7,32 @@ My strengths also include improving user interfaces, error handling and exceptio
 
 ## Skills
 
-* C# programming language
+* C#, .NET Core 6+, .NET Framework 4.5+
 * RESTful web services using ASP.NET Web API
+* OOP, SOLID
 * MS SQL Server, MySQL
-* Entity Framework for database interaction
-* WPF
+* LINQ
+* EF Core
 * ADO.NET
-* GitHub/GitLab
+* RabbitMQ
+* GitHub/GitLab/Azure DevOps
+* WPF
 * Error handling and exception management
 * Unit testing
 * Bug fixing and troubleshooting
 
 ## Professional Experience
+
+### Software Engineer
+
+#### SPB Exchange | Moscow | 06/2022 - Present
+
+As a C# developer with experience in .NET Core, .NET Framework, and REST API, 
+my responsibilities in the workplace entail providing support for existing Web APIs, 
+developing new features, and ensuring the robustness of the codebase through comprehensive testing procedures. 
+I adeptly work with databases such as MS SQL Server employing EF Core and LINQ for efficient data management. 
+Additionally, my expertise extends to message queuing systems like RabbitMQ, 
+version control platforms like GitHub and Azure DevOps (currently Azure).
 
 ### Software Engineer
 
@@ -42,7 +56,7 @@ My strengths also include improving user interfaces, error handling and exceptio
 
 ### Bachelor of Software Engineering
 
-#### Bauman Moscow State Technical University | Moscow | 09/2018 - Present
+#### Bauman Moscow State Technical University | Moscow | 09/2018 - 02/2024
 
 ### Bachelor of Innovation Management
 
