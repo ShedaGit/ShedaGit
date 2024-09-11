@@ -23,7 +23,7 @@ My strengths also include improving user interfaces, error handling and exceptio
 
 ## Professional Experience
 
-### Junior+ C# Developer
+### Middle C# Developer (formerly Junior+)
 
 #### SPB Exchange | Moscow | 06/2022 - Present
 
