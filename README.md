@@ -10,7 +10,7 @@ My strengths also include improving user interfaces, error handling and exceptio
 * C#, .NET Core 6+, .NET Framework 4.5+
 * RESTful web services using ASP.NET Web API
 * OOP, SOLID
-* MS SQL Server, MySQL
+* MS SQL Server, MySQL, SQLite
 * LINQ
 * EF Core
 * ADO.NET
