@@ -25,7 +25,7 @@ My strengths also include improving user interfaces, error handling and exceptio
 
 ### Middle C# Developer (formerly Junior+)
 
-#### SPB Exchange | Moscow | 06/2022 - Present
+#### SPB Exchange | Moscow | 06/2023 - Present
 
 As a C# developer with experience in .NET Core, .NET Framework, and REST API, 
 my responsibilities in the workplace entail providing support for existing Web APIs, 
