@@ -1,25 +1,32 @@
 # Hi there, I'm Daniel
 
-I am a Middle Software Engineer with over 3 years of commercial experience in fullstack development using C# for backend and Vue.js for frontend.
-My main expertise lies in maintaining and developing web services. It includes full circle, Vue.js + Vite for the frontend, 
-and ASP.NET + MSSQL (or other relational databases in conjunction with EF Core). Also, I have expirience in maintaining WPF applications. 
-My strengths also include improving user interfaces, error handling and exception management, writing unit tests, and troubleshooting program bugs.
+**Middle Software Engineer** with over **3 years of commercial experience** in **full-stack development**, specializing in building and maintaining **web applications** using **C#** on the backend and **Vue.js** on the frontend.
+My expertise covers the full development lifecycle — from designing and implementing features to optimizing performance and ensuring system reliability.
 
-## Skills
+I primarily work with **ASP.NET Core** and **Entity Framework Core** for backend services, using **MSSQL** or other relational databases. On the frontend, I use **Vue.js** + **Vite** to create responsive and efficient user interfaces.
+In addition to web development, I also have experience maintaining and improving **WPF desktop applications**.
 
-* C#, .NET Core 6+, .NET Framework 4.5+
-* RESTful web services using ASP.NET Web API
-* OOP, SOLID
-* MSSQL, Postgres
-* LINQ
-* EF Core
-* ADO.NET
-* RabbitMQ
-* GitHub/GitLab/Azure DevOps
-* WPF
-* Error handling and exception management
-* Unit testing
-* Bug fixing and troubleshooting
+I’m particularly skilled in **enhancing UI/UX**, **improving error handling and exception management**, **writing unit tests**, and **debugging/resolving complex issues** to ensure smooth and reliable software delivery.
+
+## **Technical Skills**
+
+**Languages & Frameworks:**
+C#, .NET 6+, .NET Framework 4.5+, ASP.NET Web API, WPF, Vue.js, Vite
+
+**Architecture & Principles:**
+OOP, SOLID, RESTful API Design
+
+**Databases:**
+MSSQL, PostgreSQL, EF Core, LINQ, ADO.NET
+
+**Messaging & Integrations:**
+RabbitMQ, Kafka
+
+**Tools & Platforms:**
+GitHub, GitLab, Azure DevOps
+
+**Additional Expertise:**
+Error handling and exception management, Unit testing, Debugging and troubleshooting
 
 ## Professional Experience
 
@@ -29,10 +36,8 @@ My strengths also include improving user interfaces, error handling and exceptio
 
 As a C# developer with experience in .NET Core, .NET Framework, and REST API, 
 my responsibilities in the workplace entail providing support for existing Web APIs, 
-developing new features, and ensuring the robustness of the codebase through comprehensive testing procedures. 
-I adeptly work with databases such as MS SQL Server employing EF Core and LINQ for efficient data management. 
-Additionally, my expertise extends to message queuing systems like RabbitMQ, 
-version control platforms like GitHub and Azure DevOps (currently Azure).
+developing new APIs and features, along with ensuring the robustness of the codebase through comprehensive testing procedures. 
+I adeptly work with databases such as MSSQL employing EF Core and LINQ for efficient data management. 
 
 ### Software Engineer
 
