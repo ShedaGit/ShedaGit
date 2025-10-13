@@ -1,16 +1,16 @@
 # Hi there, I'm Daniel
 
-I am a Junior Software Engineer with over a year of commercial experience in backend development using C#.
-My expertise lies in maintaining C# (WPF) applications with MSSQL database using ADO.NET and improving their user interface,
-as well as developing web services using REST for ASP.NET Web API, writing code for interacting with the database (EntityFramework).
-My strengths also include improving user interfaces, error handling and exception management, writing unit tests, and troubleshooting system bugs.
+I am a Middle Software Engineer with over 3 years of commercial experience in fullstack development using C# for backend and Vue.js for frontend.
+My main expertise lies in maintaining and developing web services. It includes full circle, Vue.js + Vite for the frontend, 
+and ASP.NET + MSSQL (or other relational databases in conjunction with EF Core). Also, I have expirience in maintaining WPF applications. 
+My strengths also include improving user interfaces, error handling and exception management, writing unit tests, and troubleshooting program bugs.
 
 ## Skills
 
 * C#, .NET Core 6+, .NET Framework 4.5+
 * RESTful web services using ASP.NET Web API
 * OOP, SOLID
-* MS SQL Server, MySQL, SQLite
+* MSSQL, Postgres
 * LINQ
 * EF Core
 * ADO.NET
