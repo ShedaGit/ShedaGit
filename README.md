@@ -30,7 +30,7 @@ Error handling and exception management, Unit testing, Debugging and troubleshoo
 
 ## Professional Experience
 
-### Middle C# Developer (formerly Junior+)
+### Middle C# Developer
 
 #### SPB Exchange | Moscow | 06/2023 - Present
 
